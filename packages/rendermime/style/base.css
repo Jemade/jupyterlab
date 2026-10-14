@@ -19,6 +19,7 @@
   padding-left: var(--jp-code-padding);
   line-height: var(--jp-code-line-height);
   font-family: var(--jp-code-font-family);
+  font-size: var(--jp-code-font-size);
 }
 
 .jp-ThemedContainer .jp-RenderedText pre,
